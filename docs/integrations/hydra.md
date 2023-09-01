@@ -3,7 +3,7 @@
 
 Hydra is an open-source Python framework that simplifies the development of research and other complex applications. The key feature is the ability to dynamically create a hierarchical configuration by composition and override it through config files and the command line. The name Hydra comes from its ability to run multiple similar jobs - much like a Hydra with multiple heads.
 
-The basic functionalities are intuitive: it is enough to change the configuration files in `conf/*` accordingly to your preferences. Everything will be logged in `wandb` automatically.
+The basic functionalities are intuitive: it is enough to change the configuration files in `conf/*` according to your preferences. Everything will be logged in `wandb` automatically.
 
 Consider creating new root configurations `conf/myawesomeexp.yaml` instead of always using the default `conf/default.yaml`.
 
