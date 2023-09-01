@@ -40,7 +40,7 @@ repository from scratch. **Trust us, it is totally worth the bother!**
 ## Building Blocks
 The generated project already contains a minimal working example. You are **free to modify anything** you want except for
 a few essential and high-level things that keep everything working. **(again, this is not a framework!)**.
-In particular mantain:
+In particular maintain:
 
 - Any `LightningLogger` you may want to use wrapped in a `NNLogger`
 - The `NNTemplateCore` Lightning callback
